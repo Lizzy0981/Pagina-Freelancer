@@ -12,7 +12,7 @@
 <body>
     <header>
         <h1 class="titulo">Elizabeth Diaz Familia <span>Freelancer</span></h1>
-        <button id="modo-oscuro" class="boton-modo">🌙</button>
+        <button class="boton-modo">🌙</button>
     </header>
 
     <div class="nav-bg">
@@ -94,8 +94,9 @@
             </section>
         </div>
 
-        <section id="contacto">
+        <section id="contacto" class="section">
             <h2>Contacto</h2>
+
             <form class="formulario">
                 <fieldset>
                     <legend>Contáctanos llenando todos los campos</legend>
@@ -103,22 +104,22 @@
                     <div class="contenedor-campos">
                         <div class="campo">
                             <label for="nombre">Nombre</label>
-                            <input class="input-text" type="text" placeholder="Tu Nombre" id="nombre" required>
+                            <input type="text" id="nombre" placeholder="Tu Nombre">
                         </div>
 
                         <div class="campo">
                             <label for="telefono">Teléfono</label>
-                            <input class="input-text" type="tel" placeholder="Tu Teléfono" id="telefono" required>
+                            <input type="tel" id="telefono" placeholder="Tu Teléfono">
                         </div>
 
                         <div class="campo">
                             <label for="correo">Correo</label>
-                            <input class="input-text" type="email" placeholder="Tu Email" id="correo" required>
+                            <input type="email" id="correo" placeholder="Tu Email">
                         </div>
 
                         <div class="campo">
                             <label for="mensaje">Mensaje</label>
-                            <textarea class="input-text" id="mensaje" required></textarea>
+                            <textarea id="mensaje"></textarea>
                         </div>
                     </div>
 
