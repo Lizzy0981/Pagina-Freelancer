@@ -1,6 +1,14 @@
-# Portafolio de Elizabeth Diaz Familia - Freelancer
+# Portafolio de Elizabeth Diaz Familia - Pagina Freelancer
 
 Este proyecto es un sitio web personal que sirve como portafolio para Elizabeth Diaz Familia, una freelancer especializada en diseño y desarrollo web.
+
+## Modo Claro
+![Captura de pantalla_20-10-2024_203723_](https://github.com/user-attachments/assets/c8ecd22b-ea6b-481a-9b1f-a89180b20e89)
+
+
+## Modo Oscuro
+![Captura de pantalla_20-10-2024_203742_](https://github.com/user-attachments/assets/23e60682-3484-4d20-83f9-c962029f1292)
+
 
 ## Características
 
@@ -43,6 +51,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## Contacto
 
-Elizabeth Diaz Familia - [@Lizzyfamilia](https://twitter.com/Lizzyfamilia)
+Elizabeth Diaz Familia - [@Lizzyfamilia](https://linkedin.com/in/eli-familia/)
 
-Enlace del proyecto: [https://github.com/Lizzy0981/portafolio-freelancer](https://github.com/Lizzy0981/portafolio-freelancer)
+Enlace del proyecto: [https://github.com/Lizzy0981/pagina-freelancer](https://github.com/Lizzy0981/pagina-freelancer)
