@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const modoOscuroBtn = document.getElementById('modo-oscuro');
+    const modoOscuroBtn = document.querySelector('.boton-modo');
     const body = document.body;
 
     // Verifica si el modo oscuro está guardado en localStorage
@@ -84,5 +84,19 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('scroll', () => {
         const scrolled = window.pageYOffset;
         hero.style.backgroundPositionY = `${scrolled * 0.5}px`;
+    });
+
+    // Efecto de luz en los servicios
+    const servicios = document.querySelectorAll('.servicio');
+
+    servicios.forEach(servicio => {
+    servicio.addEventListener('mousemove', (e) => {
+        const rect = servicio.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+
+        servicio.style.setProperty('--mouse-x', `${x}px`);
+        servicio.style.setProperty('--mouse-y', `${y}px`);
+        });
     });
 });
