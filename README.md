@@ -29,11 +29,11 @@ Este proyecto es un sitio web personal que sirve como portafolio para Elizabeth 
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/Lizzy0981/portafolio-freelancer.git
+   git clone https://github.com/Lizzy0981/pagina-freelancer.git
    ```
 2. Navega al directorio del proyecto:
    ```
-   cd portafolio-freelancer
+   cd pagina-freelancer
    ```
 3. Abre el archivo `index.html` en tu navegador web.
 
@@ -51,6 +51,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## Contacto
 
-Elizabeth Diaz Familia - [@Lizzyfamilia](https://linkedin.com/in/eli-familia/)
+Elizabeth Diaz Familia - [https://linkedin.com/in/eli-familia/](https://linkedin.com/in/eli-familia/)
 
 Enlace del proyecto: [https://github.com/Lizzy0981/pagina-freelancer](https://github.com/Lizzy0981/pagina-freelancer)
